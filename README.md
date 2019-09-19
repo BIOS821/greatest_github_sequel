@@ -11,3 +11,7 @@ Once upon a time, there was a very special woman with a very special power.
 This woman, also known as, GIT GIRL, was a super stupid content tracker!!!!
 
 There was an ugly ogre who mad conflicts
+
+One day, the ugly ogre started destroying the local village. He was mad, man.
+
+So GIT GIRL use her gitpowers and reset hard everything, going back to the normality. 
