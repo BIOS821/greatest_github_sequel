@@ -11,3 +11,6 @@ Once upon a time, there was a very special woman with a very special power.
 This woman, also known as, GIT GIRL, was a super stupid content tracker!!!!
 
 There was an ugly ogre who mad conflicts
+
+To solve their conflict which might ruins the world, they are sent to bio821 at Duke 
+University in Aug 2019. 
