@@ -1,6 +1,6 @@
 # greatest_github_sequel
 
-    Introduce the protagonist (i.e. hero)
+    There was once a plucky young chicken who was misunderstood. 
     Introduce the antagonist (i.e. villan)
     Include an event that sets the characters in motion.
     Define the conflice (internal? external?)
